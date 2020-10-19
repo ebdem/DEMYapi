@@ -8,10 +8,10 @@ const Left = () => {
 					<h5 style={{textAlign:'center',lineHeight:0}}>Personalize Theme</h5>
 
 					<div id="theme-options-wrapper">
-						<div data-mode="light" id="light-mode" class="theme-dot"></div>
-						<div data-mode="blue" id="blue-mode" class="theme-dot"></div>
-						<div data-mode="green" id="green-mode" class="theme-dot"></div>
-						<div data-mode="purple" id="purple-mode" class="theme-dot"></div>
+						<div data-mode="light" id="light-mode" className="theme-dot"></div>
+						<div data-mode="blue" id="blue-mode" className="theme-dot"></div>
+						<div data-mode="green" id="green-mode" className="theme-dot"></div>
+						<div data-mode="purple" id="purple-mode" className="theme-dot"></div>
 					</div>
 
 					<p id="settings-note">*Theme settings will be saved for<br/>your next vist</p>
