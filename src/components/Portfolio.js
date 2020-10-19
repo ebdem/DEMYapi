@@ -1,5 +1,5 @@
 import React from 'react';
-import '../styles/default.css';
+
 import Intro from './Intro';
 import Left from './Left';
 import Right from './Right';

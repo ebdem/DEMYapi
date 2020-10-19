@@ -1,11 +1,11 @@
 import React from "react";
 import "../styles/default.css";
-import Plan1 from '../images/Plan1.jpeg'
+import Plan3 from '../images/Plan3.jpeg'
 
 const Social = () => {
   return (
     <div className="social-links">
-      <img id="social_img" src={Plan1}  alt='Plan'/>
+      <img id="social_img" src={Plan3}  alt='Plan'/>
       <h3>Find me on Twitter & Youtube</h3>
 
       <a href="https://www.youtube.com/c/dennisivy">

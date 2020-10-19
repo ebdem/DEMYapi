@@ -1,5 +1,5 @@
 import React from 'react';
-import '../styles/default.css';
+
 import Resume from './Resume';
 
 
@@ -7,7 +7,7 @@ const About = () => {
     return(
         <div className='s2'>
             <div className='main-container'>
-                <Resume/>
+                <Resume title='More about me'/>
             </div>
         </div>
     )
