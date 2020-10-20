@@ -7,7 +7,7 @@ const About = () => {
     return(
         <div className='s2'>
             <div className='main-container'>
-                <Resume title='More about me'/>
+                <Resume title='Benimle İlgili Daha Fazla Bilgi'/>
             </div>
         </div>
     )

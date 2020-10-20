@@ -9,14 +9,14 @@ const Resume = (props) => {
             <div className='about-me'>
                 <h4>{props.title}</h4>
 
-                <p>I build new projects just to tickle my brain and love teaching others how they're made.</p>
+                <p>Sadece beynimi gıdıklamak ve başkalarına nasıl yapıldığını öğretmeyi seviyorum.</p>
 
-                <p>While I keep busy teaching courses, I still take interviews in search of a great team & projects that interest me.</p>
+                <p>Ders vermekle meşgul olsam da, beni ilgilendiren harika bir ekip ve projeler bulmak için röportajlar alıyorum.</p>
 
 
                 <hr/>
 
-                <h4>TOP EXPERTISE</h4>
+                <h4>Niteliklerim</h4>
 
                 
                 <Skills/>

@@ -14,7 +14,7 @@ const Intro = () => {
 					
 
 					<ul id="navigation">
-						<li><a href="index.html#contact">Contact</a></li>
+						<li><a href="index.html#contact">İletişim</a></li>
 
 					</ul>
         </div>

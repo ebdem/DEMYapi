@@ -7,7 +7,7 @@ const Header = () =>{
         <div className='s1'>
             <div className='main-container'>
                 <div className="greeting-wrapper">
-                    <h1>Merhaba Ben ADEM DEMİRAY</h1>
+                    <h2>Merhaba Ben ADEM DEMİRAY</h2>
                 </div>
                 <Portfolio/>
             </div>
