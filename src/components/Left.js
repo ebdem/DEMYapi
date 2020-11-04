@@ -1,10 +1,10 @@
 import React from 'react';
-import Logo from '../images/Adem.png'
+import Logo from '../images/DemirayPlanlama.jpeg'
 
 const Left = () => {
 	// let theme = localStorage.getItem('theme')
 	//const [theme,setTheme] = useState(localStorage.getItem('theme'))
-	
+
 	const handleClick = (color) => {
 		//console.log('Tıklando')
 		// if(theme === 'light'){
@@ -28,7 +28,7 @@ const Left = () => {
 						<div onClick={()=>handleClick("purple")} data-mode="purple" id="purple-mode" className="theme-dot"></div>
 					</div>
 
-					
+
         </div>
     )
 }
